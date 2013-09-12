@@ -1,4 +1,4 @@
-piplapis Ruby Library
+PiplApi Ruby Library
 ===========================
 
 This is a Ruby client library for easily integrating Pipl's APIs into your application.
